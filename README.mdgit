@@ -1,0 +1,2 @@
+"# wordpress-f"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:anasdevv/wordpress-f.gitgit push -u origin main
+"# wordpress-f"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:anasdevv/wordpress-f.gitgit push -u origin main

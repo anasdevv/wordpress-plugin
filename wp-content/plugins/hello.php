@@ -1,4 +1,5 @@
 <?php
+echo "hello";
 /**
  * @package Hello_Dolly
  * @version 1.7.2
